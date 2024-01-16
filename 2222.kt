@@ -1,5 +1,5 @@
 fun main () {
-maxValue(2, 3)
+maxValue(2)
 }
    fun maxValue(args: Array<Int>): Int {
     var max = args[2]
